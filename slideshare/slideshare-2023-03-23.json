@@ -1,0 +1,810 @@
+{
+  "slideshows_uploaded": [
+    {
+      "title": "XSLT and XPath - without the pain!",
+      "description": "Slides of my presentations at ApacheCon EU 07, see http://www.eu.apachecon.com/program/talk/84, and at the Cocoon GetTogether 2007, see http://www.cocoongt.org/",
+      "tag": "xslt cocoon apachecon",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/xslt-without-the-pain",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=xslt-without-the-pain"
+    },
+    {
+      "title": "Beyond full-text searches with Lucene and Solr",
+      "description": "Case study using Solr to index the content of existing websites. Presented at ApacheCon EU 2007, Amsterdam.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/beyond-fulltext-searches-with-lucene-and-solr",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=beyond-fulltext-searches-with-lucene-and-solr"
+    },
+    {
+      "title": "Open-Source Project Tools for Corporate Projects?",
+      "description": "Using Open-Source Project Tools for Corporate Projects? Presented at ApacheCon EU 2006, Dublin.",
+      "tag": "opensource cvs subversion jira bugzilla wiki blog tools",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/opensource-project-tools-for-corporate-projects",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=opensource-project-tools-for-corporate-projects"
+    },
+    {
+      "title": "Open Source In Education",
+      "description": "What can Open Source software bring to (IT) education, and vice-versa.",
+      "tag": "opensource education",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-in-education",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-in-education"
+    },
+    {
+      "title": "Sling demo - JCR Meetup 2008",
+      "description": "My (very quickly put together) Sling demo at http://wiki.apache.org/jackrabbit/JcrMeetupApril2008",
+      "tag": "sling jcr java osgi",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/sling-demo-jcr-meetup-2008",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=sling-demo-jcr-meetup-2008"
+    },
+    {
+      "title": "Open Source Tools Are Good For You!",
+      "description": "Slides of my talk at ApacheCon EU 2008, http://eu.apachecon.com/eu2008/program/talk/2481",
+      "tag": "opensource collaboration subversion jira bugzilla cvs blog wiki apache asf apacheconeu2008 apachecon",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-tools-are-good-for-you",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-tools-are-good-for-you"
+    },
+    {
+      "title": "Working In And With the Apache Software Foundation",
+      "description": "My presentation at the \"Meet the Communities\" event in Luxembourg, June 12th, 2008 (http://www.mtc.lu/Prochain-Event.html). Mostly about how Day works in and with the ASF, includes a brief presentation of Sling.",
+      "tag": "apache asf sling jcr",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/working-in-and-with-the-apache-software-foundation",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=working-in-and-with-the-apache-software-foundation"
+    },
+    {
+      "title": "Taming Jcr With Sling",
+      "description": "Slides of our talk at http://www.openexpo.ch, September 2008",
+      "tag": "sling jcr day",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/taming-jcr-with-sling-presentation",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=taming-jcr-with-sling-presentation"
+    },
+    {
+      "title": "JCR introduction and examples",
+      "description": "Introduction to the Java Content Repository API (JSR-170, aka JCR) - mostly a remix  of JCR presentations created by other Day folks, with some original material.",
+      "tag": "jcr jsr170 jackrabbit sling content",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "private",
+      "url": "https://www.slideshare.net/secret/4nTa6XzEjoLyZ2",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=jcr-introduction-and-examples-presentation"
+    },
+    {
+      "title": "Tales from the OSGi trenches",
+      "description": "Slides of my \"Tales from the OSGi trenches\" presentation at ApacheCon Europe 2009",
+      "tag": "osgi apachecon sling daysoftware",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/tales-from-the-osgi-trenches",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=tales-from-the-osgi-trenches"
+    },
+    {
+      "title": "Rapid JCR applications development with Sling",
+      "description": "Slides of my \"Rapid JCR applications development with Sling\" at ApacheCon EU 2009. Starts like the US 2008 version but uses a different example for the second part.",
+      "tag": "sling jcr content apachecon",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/rapid-jcr-applications-development-with-sling-1196003",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=rapid-jcr-applications-development-with-sling-1196003"
+    },
+    {
+      "title": "Open-Source Collaboration Tools are Good for You - 2009 edition",
+      "description": "Slides of my \"Open-Source Collaboration Tools are Good for You!\" presentation at openexpo.ch Bern, April 2009. Video at http://www.youtube.com/watch?v=XdNyzNCRLd8 . Relooked and slightly expanded from previous versions, including \"speaking in URLs\" and \"making mistakes in public\".",
+      "tag": "opensource collaboration apache asf jira bugzilla subversion",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/opensource-collaboration-tools-are-good-for-you-2009-edition",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=opensource-collaboration-tools-are-good-for-you-2009-edition"
+    },
+    {
+      "title": "Life in Open Source Communities, ApacheCon US 2009",
+      "description": "Slides of my \"Life in Open Source Communities\" talk at ApacheCon US 2009, see also http://grep.codeconsult.ch/2009/10/30/life-in-open-source-communities-live-at-apachecon/",
+      "tag": "opensource apachecon apache collaboration community",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/life-in-open-source-communities-apachecon-us-2009",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=life-in-open-source-communities-apachecon-us-2009"
+    },
+    {
+      "title": "JCR In 10 Minutes",
+      "description": "Slides of my short talk at http://www.nosqloakland.org/",
+      "tag": "jcr jackrabbit sling jsr170 jsr283 content storage",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/jcr-in-10-minutes-2408369",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=jcr-in-10-minutes-2408369"
+    },
+    {
+      "title": "The IKS RESTful semantic engine - let's get started!",
+      "description": "Slides of my presentation at the second IKS workshop, Rome November 2009. The aim is to convince IKS people of the need to create a simple prototype soon, that allows industrial partners to play with concrete tools. See also http://dev.day.com/microsling/content/blogs/main/iks-pragmatic-view.html",
+      "tag": "iks_project rest semantic",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/title-the-iks-restful-semantic-engine-lets-get-started",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=title-the-iks-restful-semantic-engine-lets-get-started"
+    },
+    {
+      "title": "Open Innovation means Open Source",
+      "description": "Slides of my \"Open Innovation in Software Means Open Source Software\" talk, OSS Watch, Oxford Dec.12th, 2009 (http://www.oss-watch.ac.uk/events/2009-12-07_business/programme.xml). Also at http://transfersummit.com/programme/60 and accompanying article on the H online, http://x42.ch/03.10.01",
+      "tag": "openinnovation opensource",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-innovation-means-open-source-2649029",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-innovation-means-open-source-2649029"
+    },
+    {
+      "title": "CQ5 and Sling overview",
+      "description": "Quick overview of CQ5 and Sling for an informal developers meeting",
+      "tag": "sling apachesling daysoftware cq5 osgi felix jackrabbit",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/cq5-and-sling-overview",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=cq5-and-sling-overview"
+    },
+    {
+      "title": "IKS early adopters workshop: what are we building?",
+      "description": "An IKS industrial partner's view on the current state of IKS software: on one hand the full \"revolutionary CMS\" stack, on the other hand the pragmatic but limited FISE RESTful semantic engine.",
+      "tag": "iks-project fise semantic",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/iks-early-adopters-workshop-what-are-we-building",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=iks-early-adopters-workshop-what-are-we-building"
+    },
+    {
+      "title": "IKS early adopters workshop - introducing FISE",
+      "description": "Introduction to the IKS FISE RESTful semantic engine - http://wiki.iks-project.eu/index.php/FISE , for the first IKS Early Adopters Workshop, Salzburg, June 22nd, 2010 - http://wiki.iks-project.eu/index.php/Workshops/EAworkshop",
+      "tag": "iks-project fise osgi semantic rdf",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/introduction-to-iks-fise",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=introduction-to-iks-fise"
+    },
+    {
+      "title": "Why we (Day) open source most of our code",
+      "description": "Slides my my presentation at TransferSummit 2010, \"Why we Open Source most of our code\", http://transfersummit.com/programme/67",
+      "tag": "opensource daysoftware transfersummit",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/why-we-day-open-source-most-of-our-code",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=why-we-day-open-source-most-of-our-code"
+    },
+    {
+      "title": "Open Innovation means Open Source",
+      "description": "Slides of my presentation at TransferSummit 2010, \"Open innovation in software means Open Source\", http://transfersummit.com/programme/60 . See accompanying article on the H online, http://x42.ch/03.10.01",
+      "tag": "opensource daysoftware transfersummit",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-innovation-means-open-source",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-innovation-means-open-source"
+    },
+    {
+      "title": "RESTful Web Applications with Apache Sling",
+      "description": "Slides of my ApacheCon NA 2010 talk, http://na.apachecon.com/c/acna2010/sessions/590",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/restful-slingbdelacretaz2010",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=restful-slingbdelacretaz2010"
+    },
+    {
+      "title": "Open Source enables Open Innovation",
+      "description": "Slides of my ApacheCon NA 2010 talk, http://na.apachecon.com/c/acna2010/sessions/558",
+      "tag": "opensource,apachecon,innovation",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-enables-open-innovation",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-enables-open-innovation"
+    },
+    {
+      "title": "Apache Stanbol Incubation Proposal",
+      "description": "Slides of my presentation of the Stanbol incubation proposal at Apache, http://wiki.apache.org/incubator/StanbolProposal",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/stanbol-apachecon2010bdelacretaz",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=stanbol-apachecon2010bdelacretaz"
+    },
+    {
+      "title": "Apache Stanbol - the community vision",
+      "description": "Supporting slides for my \"why is IKS code moving to Apache Stanbol (incubating)\" talk at the 4th IKS community workshop, http://wiki.iks-project.eu/index.php/Workshops/EAworkshopAmsterdam",
+      "tag": "apache,fise,iks,semantic,stanbol",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/apache-stanbol-the-community-vision",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=apache-stanbol-the-community-vision"
+    },
+    {
+      "title": "Apache Stanbol Enhancer Benchmark tool: introduction",
+      "description": "Introduction to the Apache Stanbol Enhancer Benchmark tool, see also screencast at http://www.youtube.com/watch?v=QQ4G_mFLzVw\r\n\r\nSlideshare didn't want my PDF, had to upload in keynote format and as a result it's a bit broken, but readable ;-)",
+      "tag": "stanbol, iks, semantic, rdf, testing",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/bertrand-stanbolbenchmarksapril2011",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=bertrand-stanbolbenchmarksapril2011"
+    },
+    {
+      "title": "Open innovation in software means Open Source (2011 remix)",
+      "description": "Slides of my ",
+      "tag": "opensource, adobe,transfersummit,innovation",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-innovation-in-software-means-open-source-2011-remix",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-innovation-in-software-means-open-source-2011-remix"
+    },
+    {
+      "title": "Would you buy an open source company?",
+      "description": "Slides of my \"would you buy an open source company\" talk at Transfer Summit 2011, http://www.transfersummit.com/programme/1355",
+      "tag": "opensource, daysoftware,transfersummit, opendevelopment",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/would-you-buy-an-open-source-company",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=would-you-buy-an-open-source-company"
+    },
+    {
+      "title": "OSGi for mere mortals",
+      "description": "Slides of my \"OSGi for mere mortals\" talk at ApacheCon NA 2011, http://na11.apachecon.com/talks/19416",
+      "tag": "apachecon,java,osgi,tutorial",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/osgi-for-mere-mortals",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=osgi-for-mere-mortals"
+    },
+    {
+      "title": "A JCR view of the world: everything is content, everything is a tree!",
+      "description": "Slides of my Berlin Buzzwords 2012 talk: http://berlinbuzzwords.de/sessions/jcr-view-world-everything-content-everything-tree\r\n\r\nThis talk presents a number of real-world examples of how JCR tree structures are used to store content in heavy-duty content management systems such as Adobe CQ5. We'll describe a number of macro- and micro-tree structures that expose your content in a transparent, evolvable and self-documenting way.",
+      "tag": "jcr, content, storage, sling, cq5, ",
+      "category": "document",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree"
+    },
+    {
+      "title": "Open Development in the Enterprise - Jazoon 2012",
+      "description": "",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/secret/N985KZOxNBMQP2",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-development-in-the-enterprise-jazoon-2012"
+    },
+    {
+      "title": "Open Development in the Enterprise, Jazoon 2012",
+      "description": "Slides of my Jazoon 2012 talk: http://jazoon.com/Conference/Presentation/Day/2012-06-28/Autor/Bertrand-Delacretaz_173",
+      "tag": "opendevelopment, opensource, Collaboration, ",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-development-in-the-enterprise-jazoon-2012-13525460",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-development-in-the-enterprise-jazoon-2012-13525460"
+    },
+    {
+      "title": "A JCR view of the world: everything is content, everything is a tree",
+      "description": "Slides of my Berlin Buzzwords 2012 talk, video available at http://berlinbuzzwords.de/sessions/jcr-view-world-everything-content-everything-tree",
+      "tag": "content,jackrabbit,jcr,sling",
+      "category": "document",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree-13958491",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree-13958491"
+    },
+    {
+      "title": "Tales from the OSGi trenches (2012 short form edition)",
+      "description": "My \"Tales from the OSGi trenches\" presentation at the OSGi community event 2012, Ludwigsburg, http://www.osgi.org/CommunityEvent2012/Speakers#anchor14",
+      "tag": "osgi,sling,cq5,adobe,felix,",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/tales-from-the-osgi-trenches-2012-short-form-edition",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=tales-from-the-osgi-trenches-2012-short-form-edition"
+    },
+    {
+      "title": "Open Development in the Enterprise - ApacheCon NA 2013",
+      "description": "Slides of my \"Open Development in the Enterprise\" talk at ApacheCon NA 2013 - the video is at https://www.youtube.com/watch?v=lpjeIsJtvVE",
+      "tag": "apache,apachecon,collaboration,open source",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-development-in-the-enterprise-apachecon-na-2013",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-development-in-the-enterprise-apachecon-na-2013"
+    },
+    {
+      "title": "A JCR view of the world - everything is content, everything is a tree",
+      "description": "Slides from my \"JCR view of the world\" presentation at Berlin Buzzwords 2012, http://2012.berlinbuzzwords.de/sessions/jcr-view-world-everything-content-everything-tree \r\nSee also the video at https://vimeo.com/44298693",
+      "tag": "",
+      "category": "document",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree-22182699",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=a-jcr-view-of-the-world-everything-is-content-everything-is-a-tree-22182699"
+    },
+    {
+      "title": "RESTful web apps with Apache Sling - 2013 version",
+      "description": "Quick overview of Apache Sling and its Slingbucks sample",
+      "tag": "sling, jcr, jackrabbit, apache, osgi, ",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/restful-web-apps-with-apache-sling-2013-version",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=restful-web-apps-with-apache-sling-2013-version"
+    },
+    {
+      "title": "CQ5 overview for developers, 2013 edition",
+      "description": "A quick overview of CQ5 that I use for developer-to-developer talks. See http://www.adobe.com/go/aem for more info about Adobe Experience Manager which is powered by CQ.",
+      "tag": "adobe, cq5, aem, sling, jcr, jackrabbit, osgi, ",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/cq5-overview-for-developers-2013-edition",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=cq5-overview-for-developers-2013-edition"
+    },
+    {
+      "title": "Automated self-testing and health check of CQ and Sling instances",
+      "description": "Slides of my CQCon 2013 \"Automated self-testing and health check of CQ instances\", see http://www.cqcon.eu/2013/en/speakers/bertrand-delacretaz.html and http://sling.apache.org/documentation/bundles/sling-health-check-tool.html",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/automated-selftesting-and-health-check-of-cq-and-sling-instances",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=automated-selftesting-and-health-check-of-cq-and-sling-instances"
+    },
+    {
+      "title": "Open Development in the enterprise, September 2013 version",
+      "description": "Open Development in the Enterprise, September 2013. Not much has changed from previous versions of that deck, it's mostly a remix.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/bdelacretaz-opendev201309",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=bdelacretaz-opendev201309"
+    },
+    {
+      "title": "Automated self-testing and health check of live Sling instances",
+      "description": "Slides of my talk at adaptTop 2013, \"Automated self-testing and health check of live Sling instances\". The use cases are similar to my previous presentation at CQCon, but the tool has been almost completely rewritten in the meantime. See http://sling.apache.org/documentation/bundles/sling-health-check-tool.html for more info on the Sling health check tools.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/slinghc-bdelacretazadaptto2013",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=slinghc-bdelacretazadaptto2013"
+    },
+    {
+      "title": "Open Development in the Enterprise, October 2013 edition",
+      "description": "Yet another Open Development in the Enterprise remix. More synthetic, aimed more at managers than developers.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-development-in-the-enterprise-oc",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-development-in-the-enterprise-oc"
+    },
+    {
+      "title": "Open Source at scale: the Apache Software Foundation",
+      "description": "What is the Apache Software Foundation, how it works and why we need it.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-at-scale-the-apache-software-foundation",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-at-scale-the-apache-software-foundation"
+    },
+    {
+      "title": "Taming your CQ/AEM instances with the Apache Sling Health Checks",
+      "description": "Slides of my \"Taming your AEM Instances with the Sling Health Check Tools\" at AEMHub London, April 2014 - http://aemhub.cognifide.com/\r\n\r\nThe FileDetector health check example that I showed during the talk is at https://github.com/bdelacretaz/sling-filedetector-hc",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/taming-your-cqaem-instances-with-the-apache-sling-health-checks",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=taming-your-cqaem-instances-with-the-apache-sling-health-checks"
+    },
+    {
+      "title": "It's just a Web server - a plea for simplicity",
+      "description": "Slides of my keynote at the Connect Web Experience conference, Basel, June 2014 - http://www.connectcon.ch/",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/its-just-a-web-server-a-plea-for-simplicity",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=its-just-a-web-server-a-plea-for-simplicity"
+    },
+    {
+      "title": "Modern operations with Apache Sling (2014 adaptTo version)",
+      "description": "Slides of my \"modern operations with Apache Sling\" presentation at http://adapt.to/ 2014",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/modern-operations-with-apache-sling-2014-adaptto-version",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=modern-operations-with-apache-sling-2014-adaptto-version"
+    },
+    {
+      "title": "Adobe Basel: R&D, Open Source, Open Development",
+      "description": "Presents the activities and working principles of the Adobe Basel R&D team.",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/adobe-basel",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=adobe-basel"
+    },
+    {
+      "title": "Bdelacretaz quality-connectcon-2015",
+      "description": "Slides of my presentation on software quality and Apache Sling at http://www.connectcon.ch/2015",
+      "tag": "",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/bdelacretaz-qualityconnectcon2015",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=bdelacretaz-qualityconnectcon2015"
+    },
+    {
+      "title": "ApacheCon:Core EU 2015: State of the Feather",
+      "description": "The traditional \"how's the Apache Software Foundation doing\" talk that introduces the conference. Original slides by Shane Curcuru's, used and remixed with permission.",
+      "tag": "apache,asf,apachecon,opensource daysoftware transfersummit",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/apacheconcore-eu-2015-state-of-the-feather",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=apacheconcore-eu-2015-state-of-the-feather"
+    },
+    {
+      "title": "Will the Apache Maturity Model save your project?",
+      "description": "The answer is no, but it will help! There's not much commentary on those slides actually, you had to be there. The actual model is at https://community.apache.org/apache-way/apache-project-maturity-model.html",
+      "tag": "apache,asf,opensource",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/will-the-apache-maturity-model-save-your-project",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=will-the-apache-maturity-model-save-your-project"
+    },
+    {
+      "title": "RESTful OSGi middleware for NoSQL databases with Docker",
+      "description": "Slides of my talk at Snowcamp 2016 in Grenoble, http://sched.co/5nB9 - code is at https://github.com/bdelacretaz/sling-nosql-frontend",
+      "tag": "sling,osgi,docker,mongo,redis,java",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/restful-osgi-middleware-for-nosql-databases-with-docker",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=restful-osgi-middleware-for-nosql-databases-with-docker"
+    },
+    {
+      "title": "Open Development in the Enterprise, 19 minutes 2016 version",
+      "description": "Yet another take on this topic, in condensed form.",
+      "tag": "opendevelopment,opensource,apache,adobe",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-development-in-the-enterprise-19-minutes-2016-version",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-development-in-the-enterprise-19-minutes-2016-version"
+    },
+    {
+      "title": "Can we run the Whole Web on Apache Sling?",
+      "description": "Slides of our talk at adaptTo 2016, Chetan Mehrotra and myself (https://adapt.to/2016/en/schedule/let_s-run-the-whole-web-on-apache-sling-and-oak-.html). \r\n\r\nThe code is at https://github.com/bdelacretaz/sling-adaptto-2016 and uses Docker to build a dynamic cluster of Apache Sling instances.",
+      "tag": "sling,oak,apache,adaptto,docker",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/can-we-run-the-whole-web-on-apache-sling",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=can-we-run-the-whole-web-on-apache-sling"
+    },
+    {
+      "title": "I will NOT attend your meeting - I'm an Open Source person",
+      "description": "Slides of my \"I will NOT attend your meeting\" talk at ApacheCon EU 2016, Séville",
+      "tag": "meetings opensource opendevelopment collaboration",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/i-will-not-attend-your-meeting-im-an-open-source-person",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=i-will-not-attend-your-meeting-im-an-open-source-person"
+    },
+    {
+      "title": "Simple software is hard...don't give up!",
+      "description": "Slides of my ApacheCon 2014 talk on simplicity. Creating simple software is hard work, we shouldn't give up until what we are building is simple enough.",
+      "tag": "software development,simplicity,apachecon,opendevelopment",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/simple-software-is-harddont-give-up",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=simple-software-is-harddont-give-up"
+    },
+    {
+      "title": "Who needs meetings? Asynchronous Decision Making to the rescue",
+      "description": "Based on my \"Success at Apache: Asynchronous Decision Making\" blog post ( https://blogs.apache.org/foundation/entry/success-at-apache-asynchronous-decision ) combined with a previous presentation on how meetings are expensive and often inefficient ( https://www.slideshare.net/bdelacretaz/i-will-not-attend-your-meeting-im-an-open-source-person )",
+      "tag": "collaboration,meetings,opendevelopment",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/who-needs-meetings-asynchronous-decision-making-to-the-rescue",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=who-needs-meetings-asynchronous-decision-making-to-the-rescue"
+    },
+    {
+      "title": "Building an Apache Sling Rendering Farm",
+      "description": "Slides of my talk at the September 2017 adaptTo() conference, Berlin. https://adapt.to/2017/en/schedule/get-the-cattle-out--let-s-build-a-large-scale-sling-rendering-pr.html\r\n\r\nVideo of that talk at https://www.youtube.com/watch?v=8bH9envZXik",
+      "tag": "sling,osgi,jcr,adaptto,docker,containers",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/building-an-apache-slng-rendering-farm",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=building-an-apache-slng-rendering-farm"
+    },
+    {
+      "title": "Asynchronous Decision Making - FOSS Backstage 2017",
+      "description": "Slides of my \"Asynchronous Decision Making - why and how?\" talk at the http://fossbackstage.de/ micro-summit, November 2017\r\n\r\nI also gave this talk at FOSDEM 2018, a video recording (with somewhat poor audio unfortunately) is available at https://fosdem.org/2018/schedule/event/community_decision_making_why_how/\r\n\r\nThere's also a video recording of the French speaking version at devoxx.fr 2018, https://www.youtube.com/watch?v=xkC4zjtAyRc\r\n\r\nSee also my opensource.com article on the same topic at https://opensource.com/article/17/12/asynchronous-decision-making and a slightly older blog post at https://blogs.apache.org/foundation/entry/success-at-apache-asynchronous-decision",
+      "tag": "collaboration,open development,open source,apache,fossbackstage",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/asynchronous-decision-making-foss-backstage-2017",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=asynchronous-decision-making-foss-backstage-2017"
+    },
+    {
+      "title": "La Fondation Apache - keynote au Paris Open Source Summit 2017",
+      "description": "Slides de ma présentation à la \"plénière solutions\" du Paris Open Source Summit 2017",
+      "tag": "apache,asf,opensource",
+      "category": "presentation",
+      "language": "fr",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/la-fondation-apache-keynote-au-paris-open-source-summit-2017",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=la-fondation-apache-keynote-au-paris-open-source-summit-2017"
+    },
+    {
+      "title": "Project and Community Services the Apache Way",
+      "description": "Slides of the presentation that we did together with Emmanuel Lécharny at the Community Summit of Paris Open Source Summit 2017",
+      "tag": "apache,asf,opensource,community",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/project-and-community-services-the-apache-way",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=project-and-community-services-the-apache-way"
+    },
+    {
+      "title": "Prise de Décisions Asynchrone, Devoxx France 2018 (avec vidéo)",
+      "description": "Vidéo: https://www.youtube.com/watch?v=xkC4zjtAyRc - c'est la version française de ma présentation sur la Prise de Décisions Asynchrone, enregistrée à Devoxx France 2018.",
+      "tag": "collaboration,opensource,opendevelopment,decisions",
+      "category": "presentation",
+      "language": "fr",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/prise-de-dcisions-asynchrone-devoxx-france-2018",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=prise-de-dcisions-asynchrone-devoxx-france-2018"
+    },
+    {
+      "title": "They don't understand me! Tales from the multi-cultural trenches",
+      "description": "Slides from my FOSS Backstage 2018 talk on the difficulties of collaborating in multicultural environments.\r\n\r\nA video recording should be available soon.\r\n\r\nhttps://foss-backstage.de/session/they-dont-understand-me-tales-multi-cultural-trenches",
+      "tag": "collaboration,open source,apache,fossbackstage",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/they-dont-understand-me-tales-from-the-multicultural-trenches",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=they-dont-understand-me-tales-from-the-multicultural-trenches"
+    },
+    {
+      "title": "Open Source at Scale: the Apache Software Foundation (2018)",
+      "description": "Slides of my keynote at Solutions Hamburg 2018, https://solutions.hamburg/strategy-meets-tech/",
+      "tag": "apache,opensource,opendevelopment",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-at-scale-the-apache-software-foundation-2018",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-at-scale-the-apache-software-foundation-2018"
+    },
+    {
+      "title": "Karate, the black belt of HTTP API testing?",
+      "description": "Slides of my talk on the Karate testing tool at adaptTo() 2018, https://adapt.to/2018/en/schedule/karate-the-black-belt-of-http-api-testing.html",
+      "tag": "karate,http,testing,java,maven,sling,junit,adaptto",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/karate-the-black-belt-of-http-api-testing",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=karate-the-black-belt-of-http-api-testing"
+    },
+    {
+      "title": "State of the Feather - ApacheCon North America 2018",
+      "description": "Slides of the \"State of the Feather\" talk that I gave at ApacheCon NA 2018 in Montréal, Canada. http://apachecon.com/",
+      "tag": "apache,apachecon,asf,community,montreal",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/state-of-the-feather-apachecon-north-america-2018",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=state-of-the-feather-apachecon-north-america-2018"
+    },
+    {
+      "title": "Serverless - introduction et perspectives concrètes",
+      "description": "Slides de ma présentation d'avril 2019 à l'API-NE, Neuchâtel.\r\nLa vidéo est disponible sur https://www.youtube.com/watch?v=btpGHOIOlx8",
+      "tag": "serverless,openwhisk,faas",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/serverless-introduction-et-perspectives-concrtes",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=serverless-introduction-et-perspectives-concrtes"
+    },
+    {
+      "title": "Sling and Serverless, Best Friends Forever?",
+      "description": "Slides of my \"Sling and Serverless, Best Friends Forever?\" presentation at adaptTo() 2019, Berlin. A video recording will be available later at https://adapt.to/2019/en/schedule/sling-and-serverless-best-friends-forever.html\r\n",
+      "tag": "sling,openwhisk,serverless,microsling,adaptto",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/sling-and-serverless-best-friends-forever",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=sling-and-serverless-best-friends-forever"
+    },
+    {
+      "title": "Shared Neurons - the Secret Sauce of Open Source communities?",
+      "description": "Slides of my talk at ApacheCon EU 2019in Berlin, Germany: Shared Neurons - the Secret Sauce of Open Source communities? See also the video recording at https://www.youtube.com/watch?v=pWG-F3vW24w\r\n\r\nOpen Source communities sometimes speak of Shared Neurons when great ideas come together as if sparked by a giant collective brain. Can we take inspiration from them and foster such neuron sharing in our teams? We will describe the tools and techniques used by successful Open Source projects to \"put their brains together\", by communicating openly and often, exposing concrete ideas early in prototype code, collaborating asynchronously and deliberately slowing things down to take advantage of unexpected Eureka moments.\r\n\r\nBased on years of experiences in multiple Open Source projects, this talk will help you better understand what makes our communities so powerful and how to transpose this in your own teams.",
+      "tag": "open source,collaboration,apache,apachecon,community",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/shared-neurons-the-secret-sauce-of-open-source-communities",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=shared-neurons-the-secret-sauce-of-open-source-communities"
+    },
+    {
+      "title": "L'Open Source change le Monde - BlendWebMix 2019",
+      "description": "Ma présentation à https://www.blendwebmix.com/ 2019 \r\nVideo: https://youtu.be/eE7YhQpPdcM?t=4560\r\n\r\nDans un monde qui se numérise toujours plus, les logiciels libres sont partout: dans votre téléphone, votre ascenseur, votre voiture, votre banque, etc… plus que jamais, l’Open Source est au coeur de notre monde numérique.\r\n\r\nAu-delà de ces contributions très concrètes au bien-être de nos sociétés, les communautés Open Source ont aussi inventé et mis en pratique des techniques de collaboration innovantes, distribuées, asynchrones. Souvent sans chef clairement identifié, ni planification précise, ces groupes de travail informels produisent des logiciels de grande qualité, qui pour certains ont créé des marchés ou révolutionnés les pratiques numériques. Le succès de ces groupes est étonnant quand on le compare aux nombreux projets informatiques ratés dans des groupes beaucoup plus structurés, entreprises ou organismes d’Etat par exemple.\r\n\r\nL’Open Source change le monde…vraiment? Tout en gardant les choses en perspective, nous présenterons plusieurs exemples concrets où cela se vérifie, par la création d’outils partagés, la découverte de talents, la diffusion des connaissances et la création de logiciels d’infrastructure qui sont devenus des standards de l’industrie.",
+      "tag": "open source,apache,blendwebmix,collaboration",
+      "category": "presentation",
+      "language": "fr",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/lopen-source-change-le-monde-blendwebmix-2019",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=lopen-source-change-le-monde-blendwebmix-2019"
+    },
+    {
+      "title": "How to convince your left brain (or manager) to follow the Open Source path that your right brain desires",
+      "description": "Slides of my FOSS Backstage 2020 presentation, which I delivered remotely - the video is at https://youtu.be/F0SmiQ3SF6Q ",
+      "tag": "opensource,community,collaboration,asynchronous-decision-making,apache",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/how-to-convince-your-left-brain-or-manager-to-follow-the-open-source-path-that-your-right-brain-desires",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=how-to-convince-your-left-brain-or-manager-to-follow-the-open-source-path-that-your-right-brain-desires"
+    },
+    {
+      "title": "Open Source Changes the World!",
+      "description": "Slides of my talk in the Community track of the ApacheCon @Home 2020 conference. The video will be available on the \"TheApacheFoundation\" channel on YouTube, https://www.youtube.com/channel/UCLDJ_V9KUOdOFSbDvPfGBxw",
+      "tag": "opensource,apache,asf,collaboration",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/open-source-changes-the-world",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=open-source-changes-the-world"
+    },
+    {
+      "title": "GraphQL in Apache Sling - but isn't it the opposite of REST?",
+      "description": "Slides of my talk at ApacheCon @Home 2020 - code at https://github.com/apache/sling-org-apache-sling-graphql-core/ (look for the \"sample website\")  - video recording at https://youtu.be/KTMObGt0YKU",
+      "tag": "graphql,sling,apache,java,osgi,rest,http",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/graphql-in-apache-sling-but-isnt-it-the-opposite-of-rest",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=graphql-in-apache-sling-but-isnt-it-the-opposite-of-rest"
+    },
+    {
+      "title": "The Moving House Model, adhocracy and remote collaboration",
+      "description": "Slides of my February 2021 talk at FOSS Backstage, https://foss-backstage.de\r\n\r\nMoving house with the help of a group of friends is an interesting exercise in collective improvisation and coordination. Everybody can help with most of the jobs at hand, so the challenge is to keep people busy in a meaningful way, to make the best use of the physical and intellectual resources available, while keeping people happy and engaged.\r\n\r\nSounds familiar? The Moving House model does apply to other types of group projects, including software development. Adhocracy, Asynchronous Collaboration and a can-do attitude, as practiced in Open Source communities, are key elements that enable groups that have no formal structure to collaborate efficiently and smoothly - like when helping friends moving house.",
+      "tag": "collaboration,opensource,opendevelopment,fossbackstage",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/the-moving-house-model-adhocracy-and-remote-collaboration",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=the-moving-house-model-adhocracy-and-remote-collaboration"
+    },
+    {
+      "title": "Repoinit: a mini-language for content repository initialization",
+      "description": "Slides of my adaptTo2021 talk on the Apache Sling Repoinit module, https://adapt.to/2021/en/schedule/repoinit-a-mini-language-for-content-repository-initialization.html",
+      "tag": "apache,sling,repoinit,aem,java,javacc",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/repoinit-a-minilanguage-for-content-repository-initialization",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=repoinit-a-minilanguage-for-content-repository-initialization"
+    },
+    {
+      "title": "Surviving large online communities with conciseness and clarity ",
+      "description": "Slides of my FOSS Backstage 2022 (remote) talk, https://pretalx.com/foss-backstage-2022/talk/9S3PJE/ - how conciseness & clarity help communicate efficiently in large online communities.",
+      "tag": "community,apache,collaboration,writing",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/surviving-large-online-communities-with-conciseness-and-clarity",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=surviving-large-online-communities-with-conciseness-and-clarity"
+    },
+    {
+      "title": "VanillaJS & the Web Platform, a match made in heaven?",
+      "description": "Slides of my talk at Very Tech Trip 2023, Paris, on what the Web Platform is and how I think it makes JavaScript Web Frameworks obsolete in many cases.",
+      "tag": "html5,html,css,web,javascript,w3c,webplatform,standards,react,angular,vue",
+      "category": "presentation",
+      "language": "en",
+      "privacy": "public",
+      "url": "https://www.slideshare.net/bdelacretaz/vanillajs-the-web-platform-a-match-made-in-heaven",
+      "download_url": "https://www.slideshare.net/dwnld_file?s_title=vanillajs-the-web-platform-a-match-made-in-heaven"
+    }
+  ],
+  "comments": [
+    {
+      "slideshow_url": "https://www.slideshare.net/nitot/bidouillabilit-pourquoi-il-est-essentiel-de-pouvoir-bidouiller-internet",
+      "comment": "Excellent, et Gaston est bien sûr le bidouilleur ultime ;-)"
+    },
+    {
+      "slideshow_url": "https://www.slideshare.net/bdelacretaz/jcr-in-10-minutes-2408369",
+      "comment": "Yeah, I know about the 10 vs. 15 minutes thing: http://twitter.com/bdelacretaz/status/6498055659"
+    }
+  ],
+  "following_users": [
+    "lars3loff",
+    "alexander.saar",
+    "ordnas",
+    "jukka",
+    "tcurdt",
+    "ugocei",
+    "mr.quinn",
+    "alexkli",
+    "uncled",
+    "fmeschbe",
+    "davidriccitelli",
+    "GabrielWalt"
+  ],
+  "account_registration": {
+    "login": "bdelacretaz",
+    "email": "bdelacretaz@codeconsult.ch",
+    "created_at": "2007-06-27T01:08:35.000Z",
+    "occupation": "Principal Scientist",
+    "organization": "Adobe",
+    "first_name": "Bertrand",
+    "last_name": "Delacretaz",
+    "about": "",
+    "website": "grep.codeconsult.ch/about-me/",
+    "industry": "Technology / Software / Internet",
+    "profile_photo_url": "https://cdn.slidesharecdn.com/profile-photo-bdelacretaz-96x96.jpg?cb=1679403693"
+  },
+  "contact_details": {
+    "twitter": "@bdelacretaz",
+    "facebook": null,
+    "linkedin": "http://ch.linkedin.com/in/bdelacretaz/",
+    "gplus": null,
+    "city": "Lausanne",
+    "region": "",
+    "country": "Switzerland"
+  }
+}
